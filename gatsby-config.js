@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: "/gurpreet.de",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `gurpreet.de`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Gurpreet Singh`,
+      summary: `who lives and works in Berlin building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `my personal blog.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `gurpreeth`,
     },
   },
   plugins: [

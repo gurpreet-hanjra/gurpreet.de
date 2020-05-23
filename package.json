@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-blog",
-  "private": true,
+  "private": false,
   "description": "Personal blog",
   "version": "0.1.0",
   "author": "Gurpreet Singh <gurpreet.hanjra@gmail.com>",

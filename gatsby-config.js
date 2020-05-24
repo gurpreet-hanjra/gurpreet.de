@@ -4,10 +4,10 @@ module.exports = {
     title: `gurpreet.de`,
     author: {
       name: `Gurpreet Singh`,
-      summary: `who lives and works in Berlin building useful things.`,
+      summary: `who lives and works in Berlin, building useful things.`,
     },
     description: `my personal blog.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://gurpreet.de`,
     social: {
       twitter: `gurpreeth`,
     },
